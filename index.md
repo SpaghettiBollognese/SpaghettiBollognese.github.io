@@ -6,16 +6,13 @@ Must watch movies
 * [Pirates of the caribbean](https://www.imdb.com/title/tt0325980/)
 * [Cruella](https://www.imdb.com/title/tt3228774/?ref_=fn_al_tt_1)
 
-### Hobbies to take on:
+# Hobbies to take on:
 
-# Ice-skating
+## Ice-skating
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Although it requires an ice rink, commitment, proper skating shoes and time, ice-skating is a fun way to strengthen your core and leg muscles.
 
 - Bulleted
 - List
