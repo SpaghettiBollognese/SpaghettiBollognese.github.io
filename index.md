@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## You can watch movies too!
 
-You can use the [editor on GitHub](https://github.com/SpaghettiBollognese/SpaghettiBollognese.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Must watch movies
+* [Free Guy](https://www.imdb.com/title/tt6264654/)
+* [Encanto](https://www.imdb.com/title/tt2953050/)
+* [Pirates of the caribbean](https://www.imdb.com/title/tt0325980/)
+* [Cruella](https://www.imdb.com/title/tt3228774/?ref_=fn_al_tt_1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hobbies to take on:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Ice-skating
 
 ```markdown
 Syntax highlighted code block
